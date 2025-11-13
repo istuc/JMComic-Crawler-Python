@@ -1,4 +1,4 @@
-name: 下载JM本子 (commit)
+name: 下载JM (commit)
 
 on:
   workflow_dispatch:
