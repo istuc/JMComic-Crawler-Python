@@ -1,4 +1,4 @@
-name: 下载JM (dispatch)
+name: 下载 (dispatch)
 
 on:
   workflow_dispatch:
@@ -33,7 +33,7 @@ on:
 
       ZIP_NAME:
         type: string
-        default: 本子.tar.gz
+        default: bz.tar.gz
         description: 压缩文件名称
         required: false
 
